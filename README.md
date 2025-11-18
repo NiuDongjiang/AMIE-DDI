@@ -18,7 +18,7 @@ Of course, you can create your environment by env.yaml:
 
 ### 2.1. Data
 
-ZhongDDI and ZhangDDI for AMIE-DDI can be downloaded from [ZhongDDI](https://github.com/LabWeng/MeTDDI/tree/main) and [ZhangDDI](https://github.com/zw9977129/drug-drug-interaction/tree/master/dataset).
+Data for AMIE-DDI can be downloaded from [ZhongDDI](https://github.com/LabWeng/MeTDDI/tree/main) and [ZhangDDI](https://github.com/zw9977129/drug-drug-interaction/tree/master/dataset).
 
 ### 2.2. Weight 
 Weights for MeTDDI can be downloaded from [here](https://pan.baidu.com/s/1-PDKToc8Lf9xXTRgZGeDFQ?pwd=0000).
