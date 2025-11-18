@@ -33,3 +33,8 @@ For evaluating:
 ```sh
     $ python evaluate.py
 ```
+
+# 3. Concat
+Thank you for your interest in our work!
+
+Please feel free to ask about any questions about the algorithms, codes, as well as problems encountered in running them so that we can make it clearer and better. You can either create an issue in the github repo or contact us at niudongjiang@qdu.edu.cn.
