@@ -34,6 +34,18 @@ For evaluating:
     $ python evaluate.py
 ```
 
+### 2.4. Baselines
+MIRACLE:[https://github.com/isjakewong/MIRACLE](https://github.com/isjakewong/MIRACLE)
+
+SA-DDI:[https://github.com/guaguabujianle/SA-DDI](https://github.com/guaguabujianle/SA-DDI)
+
+DSN-DDI:[https://doi.org/10.1093/bib/bbac597](https://doi.org/10.1093/bib/bbac597)
+
+PEB-DDI:[https://github.com/wayyzt/PEB-DDI](https://github.com/wayyzt/PEB-DDI)
+
+MetDDI:[https://github.com/LabWeng/MeTDDI/tree/main](https://github.com/LabWeng/MeTDDI/tree/main)
+
+MDI-DDI:[https://github.com/02echo/MDI-DDI](https://github.com/02echo/MDI-DDI)
 # 3. Concat
 Thank you for your interest in our work!
 
